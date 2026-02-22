@@ -34,7 +34,8 @@ I am a quantitative professional based in London, specialising in algorithmic he
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
----
-*"Applying mathematical rigor to optimize alpha and mitigate market risk."*
+
+
+*"Applying mathematical rigour to optimise alpha and mitigate market risk."*
 
 
