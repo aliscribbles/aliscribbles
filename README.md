@@ -1,6 +1,6 @@
 # Hi, I'm Ali A. Khan 👋
 
-**Forecasting Analyst | Energy Trading & Risk Modelling | Python & SQL**
+**Energy Forecasting Analyst | Energy Trading & Risk Modelling | Python & SQL**
 
 I am a quantitative professional based in London, specialising in algorithmic hedging, time-series forecasting, and stochastic risk modelling. Combining an MSc in Business Analytics, an engineering background, and an MBA in Finance, I build the mathematical architecture required to optimise trading portfolios and mitigate market exposure.
 
