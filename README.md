@@ -1,11 +1,11 @@
 # Hi, I'm Ali A. Khan 👋
 
-**Energy Forecasting Analyst | Energy Trading & Risk Modelling | Python & SQL**
+**Quantitative Energy Analyst | Energy Trading & Risk Modelling | Python & SQL**
 
 I am a quantitative professional based in London, specialising in algorithmic hedging, time-series forecasting, and stochastic risk modelling. Combining an MSc in Business Analytics, an engineering background, and an MBA in Finance, I build the mathematical architecture required to optimise trading portfolios and mitigate market exposure.
 
 ### 🔭 What I Do
-- **Currently:** Energy Forecasting Analyst within Energy Markets & Trading Operations at Veolia. I build advanced forecasting and hedging models to optimise a 210 MW green energy portfolio and manage trades exceeding £150m.
+- **Currently:** Quantitative Energy Analyst within Energy Markets & Trading Operations at Veolia. I build advanced forecasting and hedging models to optimise a 210 MW green energy portfolio and manage trades exceeding £150m.
 - **My Focus:** Backtesting historical trade data, building Hedge Execution Engines, analysing Cash Flow at Risk (CFaR), and executing high-volume Monte Carlo scenario analyses.
 - **Quantitative Impact:** Recently deployed a priority-based multi-layer hedging strategy capable of executing 10,000 parallel scenarios, reducing overall risk exposure by 12%.
 
